@@ -1,6 +1,6 @@
 # Hi 👋! I'm Sudev, a Passionate Full Stack Developer from Nepal  
 
-👨‍💻 **Currently Working On:** An HRM System during my internship  
+👨‍💻 **Currently Working as Full Stack Developer at Mayamatrix Technologies  
 🎓 **Studying:** Bachelor's in Information Management, Final Semester  
 💼 **Experience:** Proficient in React.js, Next.js, and full-stack web development  
 🚀 **Aiming For:** A career in web development, focusing on React, Next.js, and Three.js  
