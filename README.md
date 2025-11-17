@@ -21,9 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=sudevmagar&icon=2&color=9)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudevmagar&label=Profile%20views&color=0e75b6&style=flat" alt="sudevmagar" /> </p>
-
-
 ### 🐍 GitHub Contributions  
 
 <picture>
@@ -31,5 +28,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudevmagar/sudevmagar/output/github-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/sudevmagar/sudevmagar/output/github-snake.svg" />
 </picture>  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudevmagar&label=Profile%20views&color=0e75b6&style=flat" alt="sudevmagar" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
