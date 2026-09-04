@@ -36,11 +36,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats-five-pied-52.vercel.app/api?username=sudevmagar&theme=nord&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sudevmagar&theme=nord&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudevmagar&theme=nord&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
