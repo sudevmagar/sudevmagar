@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨‍💻 **Currently Working as Full Stack Developer at Mayamatrix Technologies<br>🎓 Studying: Bachelor's in Information Management, Final Semester<br>💼 Experience: Proficient in React.js, Next.js, and full-stack web development<br>🚀 Aiming For: A career in web development, focusing on React, Next.js, and Three.js<br><br>
+👨‍💻 **Full Stack Web Developer** who enjoys turning ideas into real, useful products  
+⚡ Building with **Next.js, React, PHP & WordPress**  
+🎨 Passionate about crafting **great UIs, smooth interactions, GSAP animations & 3D experiences** with Three.js  
+🚀 Exploring better ways to build **solution-driven products from frontend to backend**  
+🎓 **Bachelor's in Information Management**
 
 
 ## 🌐 Socials:
